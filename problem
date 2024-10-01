@@ -1,0 +1,2 @@
+ok so i solved the problem, and problem was i 1. i was't changing directory 
+2.i was writing pull command wrong  remember"git pull origin master"
