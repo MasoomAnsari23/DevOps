@@ -1,2 +1,6 @@
 hey good morning
+<<<<<<< Updated upstream
 hey how are you
+=======
+hey looks its working git stash is working
+>>>>>>> Stashed changes
